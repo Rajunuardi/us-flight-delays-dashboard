@@ -1,4 +1,4 @@
-![Preview Dashboard](gambar/dashboard-preview.png)
+![Preview Dashboard](gambar/dashboard-preview.png.png)
 
 # Dashboard Keterlambatan Penerbangan AS
 
