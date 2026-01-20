@@ -1,3 +1,5 @@
+![Preview Dashboard](images/dashboard-preview.png)
+
 # Dashboard Keterlambatan Penerbangan AS
 
 Project ini menganalisis keterlambatan penerbangan di Amerika Serikat menggunakan data publik dari Kaggle.
