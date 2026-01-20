@@ -1,4 +1,5 @@
-![Preview Dashboard](./gambar/dashboardusimages.png)
+<img src="https://raw.githubusercontent.com/Rajunuardi/us-flight-delays-dashboard/main/gambar/dashboardusimages.png" alt="Preview Dashboard" width="100%">
+
 
 # Dashboard Keterlambatan Penerbangan AS
 
